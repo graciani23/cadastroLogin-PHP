@@ -1,3 +1,3 @@
 # Web FullStack - Digital House
 
-Telas de cadastro e login com integração com MySQL.
+Telas de cadastro e login integradas ao MySQL.
